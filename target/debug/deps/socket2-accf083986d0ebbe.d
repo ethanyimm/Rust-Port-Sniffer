@@ -1,0 +1,11 @@
+C:\Users\ethan\OneDrive\Rust Projects\target\debug\deps\socket2-accf083986d0ebbe.d: C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\lib.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockaddr.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\socket.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockref.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\ethan\OneDrive\Rust Projects\target\debug\deps\libsocket2-accf083986d0ebbe.rlib: C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\lib.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockaddr.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\socket.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockref.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\ethan\OneDrive\Rust Projects\target\debug\deps\libsocket2-accf083986d0ebbe.rmeta: C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\lib.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockaddr.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\socket.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockref.rs C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sys\windows.rs
+
+C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\lib.rs:
+C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockaddr.rs:
+C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\socket.rs:
+C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sockref.rs:
+C:\Users\ethan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.4.7\src\sys\windows.rs:
